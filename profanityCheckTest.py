@@ -13,7 +13,7 @@ def mean(numLst):
 
 def calculateAccuracy(real, expected):
   """
-  This function calculate the accuracy of the prediction and return a precentage, by comparing the predicted data with 
+  This function calculate the accuracy of the prediction and return a percentage, by comparing the predicted data with 
   the expected data
 
   real - a list of number of the predicted result, that is either 1 or 0
